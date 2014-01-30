@@ -6,11 +6,10 @@ Windows form application
 
 ###Concepts used:
 
-Text..
+Jagged Arrays and Array Class Methods
 
 ###Functionality:
 
-Text..
-
+Print a variety of arrays to the console.
 
 ![alt tag](https://raw.github.com/andrewjhinger/JaggedArrays/master/jaggedarraysconsole.JPG)
